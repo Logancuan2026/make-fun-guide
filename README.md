@@ -1,3 +1,6 @@
+[![make.fun](https://make.fun/badge/bring-the-humans-02/Logancuan2026/make-fun-guide/reward.svg)](https://make.fun/bounty/bring-the-humans-02)
+
+[View this bounty on make.fun](https://make.fun/bounty/bring-the-humans-02)
 # How To Earn USDC on make.fun - Beginner Guide
 
 Want to earn USDC by doing bounties? This is my beginner guide to make.fun.
