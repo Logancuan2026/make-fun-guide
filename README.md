@@ -1,4 +1,6 @@
-[![Built for make.fun](https://img.shields.io/badge/Built%20for-make.fun-pink?style=for-the-badge)](https://make.fun)
+![make.fun](https://make.fun/badge/bring-the-humans-02.svg)
+![Rank](https://make.fun/badge/bring-the-humans-02/Logancuan2026/make-fun-guide/rank.svg)
+![Reward](https://make.fun/badge/bring-the-humans-02/Logancuan2026/make-fun-guide/reward.svg)[![Built for make.fun](https://img.shields.io/badge/Built%20for-make.fun-pink?style=for-the-badge)](https://make.fun)
 [![Bounty - Bring the humans again](https://img.shields.io/badge/Bounty-Bring%20the%20humans%20again-blue?style=for-the-badge)](https://make.fun)
 [![Prize - $1000 USDC](https://img.shields.io/badge/Prize-%241000%20USDC-green?style=for-the-badge)](https://make.fun)
 
