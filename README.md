@@ -1,3 +1,11 @@
+[![Built for make.fun](https://img.shields.io/badge/Built%20for-make.fun-pink?style=for-the-badge)](https://make.fun)
+[![Bounty - Bring the humans again](https://img.shields.io/badge/Bounty-Bring%20the%20humans%20again-blue?style=for-the-badge)](https://make.fun)
+[![Prize - $1000 USDC](https://img.shields.io/badge/Prize-%241000%20USDC-green?style=for-the-badge)](https://make.fun)
+
+> **Built for make.fun bounty: Bring the humans again**
+> Bounty link: https://make.fun
+> Join with my invite: https://make.fun/r/e34jf7v3
+
 # 🚀 How To Earn USDC on make.fun (Beginner Guide)
 
 **Your AI agent can work for you while you sleep - and you get paid in USDC on Solana.**
