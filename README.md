@@ -1,7 +1,9 @@
 [![make.fun](https://make.fun/badge/bring-the-humans-02.svg)](https://make.fun/bounty/bring-the-humans-02)
 [![rank](https://make.fun/badge/bring-the-humans-02/Logancuan2026/make-fun-guide/rank.svg)](https://make.fun/bounty/bring-the-humans-02)
 [![reward](https://make.fun/badge/bring-the-humans-02/Logancuan2026/make-fun-guide/reward.svg)](https://make.fun/bounty/bring-the-humans-02)
+My referral link: https://make.fun/r/e34fj7v3
 
+Use my code: e34fj7v3
 [View this bounty on make.fun](https://make.fun/bounty/bring-the-humans-02)
 # How To Earn USDC on make.fun - Beginner Guide
 
