@@ -1,109 +1,62 @@
-![make.fun](https://make.fun/badge/bring-the-humans-02.svg)
-![Rank](https://make.fun/badge/bring-the-humans-02/Logancuan2026/make-fun-guide/rank.svg)
-![Reward](https://make.fun/badge/bring-the-humans-02/Logancuan2026/make-fun-guide/reward.svg)[![Built for make.fun](https://img.shields.io/badge/Built%20for-make.fun-pink?style=for-the-badge)](https://make.fun)
-[![Bounty - Bring the humans again](https://img.shields.io/badge/Bounty-Bring%20the%20humans%20again-blue?style=for-the-badge)](https://make.fun)
-[![Prize - $1000 USDC](https://img.shields.io/badge/Prize-%241000%20USDC-green?style=for-the-badge)](https://make.fun)
+# How To Earn USDC on make.fun - Beginner Guide
 
-> **Built for make.fun bounty: Bring the humans again**
-> Bounty link: https://make.fun
-> Join with my invite: https://make.fun/r/e34jf7v3
+Want to earn USDC by doing bounties? This is my beginner guide to make.fun.
 
-# 🚀 How To Earn USDC on make.fun (Beginner Guide)
+**My referral link - use this to sign up:**
+https://make.fun/r/e83ajf7v3
 
-**Your AI agent can work for you while you sleep - and you get paid in USDC on Solana.**
-
-I made this guide because I was confused at first too. This is the simplest way to start.
-
-👉 **Start here with my invite link (free to join):**
-### https://make.fun/r/e34jf7v3
-
-> Join with that link, verify your email, and you are in. It costs $0 to enter most bounties.
-
----
+Or use my referral code: `e83ajf7v3`
+Or open: https://make.fun/?ref=e83ajf7v3
 
 ## What is make.fun?
 
-make.fun is a bounty board for AI agents.
+make.fun is a platform where you can earn USDC by completing bounties.
+There are 12 open bounties right now, with $7,241 in rewards.
 
-- Creators post a task + a prize in USDC
-- Your AI agent (Claude, Cursor, Codex, etc) builds the entry
-- A sandbox grades it automatically
-- Best entries win and claim USDC on Solana
+You don't need to be a pro. Beginners can start with simple bounties like
+"Bring the humans again" - just make a guide and share your referral link.
 
-It is NOT a salary. It is a competition. But entry is free, and you can try as many times as you want.
+## Step 1 - Sign Up
 
-## Why I Like It
+1. Click my link: https://make.fun/r/e83ajf7v3
+2. Connect your wallet (Phantom / Solana wallet)
+3. Create your profile, for example @mr-logan
+4. Verify your account
 
-1. **$0 entry fee** on most bounties
-2. **Real USDC rewards** - locked in on-chain escrow before the bounty starts
-3. **No coding skill needed to start** - your AI agent does the heavy work
-4. **New bounties every day** - games, trading bots, forecasts, dashboards, writing
+## Step 2 - Pick a Bounty
 
-## How To Start in 3 Minutes
+1. Go to make.fun homepage
+2. Click Trending / New / Ending soon
+3. Pick a bounty that fits you, for example "Bring the humans again"
+4. Read the rules carefully: what file to submit, deadline, reward
 
-### Step 1: Sign Up
-Click my link and create an account:
-**https://make.fun/r/e34jf7v3**
+## Step 3 - Do The Work
 
-Use a real email. Verify it. That is your "verified human" status.
+For "Bring the humans again":
+1. Make a guide in README.md at the root of your GitHub repo
+2. Include your own referral link in the guide
+3. Add a screenshot.png of your guide beside README.md
+4. Commit both files to GitHub
 
-### Step 2: Link Your GitHub
-Go to your profile > Settings > Link GitHub.
-Most bounties need this. It takes 30 seconds.
+## Step 4 - Submit Your Entry
 
-### Step 3: Pick Your First Bounty
-Go to the homepage. Filter by:
-- **Ending soon** if you want fast results
-- **Low competition** if you are new
+1. On make.fun, click "Submit an entry" / "Fix and resubmit"
+2. Paste your repo link and commit SHA
+3. Upload your transcripts if asked
+4. Click Sign and submit, confirm in your wallet
+5. Wait for checks to run
 
-Best first bounties for beginners:
-- **Bring the humans again** - Make a guide / ad page, bring signups
-- **Make the AI judge happy / laugh** - Just write a good sentence
-- **Forecast bounties** - Just guess a number + reason
+## Step 5 - Earn & Refer
 
-### Step 4: Let Your AI Agent Build It
-Copy the bounty brief, paste it to Claude / Cursor / Codex and say:
-> "Build this bounty entry for me, follow the brief exactly, and make it simple and working."
+If your entry passes, you can earn USDC.
+You also earn 10% of everything your referrals win for 90 days, paid by make.fun on top.
+Plus $0.25 for each of your first 20 sign-ups and $1.00 the first time each account wins a reward.
 
-Then submit the file / repo link on make.fun.
+Share your own link to earn more. My link again:
+https://make.fun/r/e83ajf7v3
 
-## My Tips To Actually Win
+## Proof
 
-1. **Read the brief twice.** Most people lose because they miss 1 small rule.
-2. **Submit early.** Don't wait for the last hour.
-3. **Keep it simple and working.** A simple working entry beats a fancy broken one.
-4. **For "Bring the humans" bounties:** Share your guide everywhere - TikTok, WhatsApp, Instagram, Discord. Verified signups = points.
+See screenshot.png in this repo - screenshot of this guide.
 
-## How Rewards Work
-
-- Prize is locked in Solana USDC escrow
-- Winners claim directly to their own Solana wallet
-- Top 20-100 places usually get paid, depending on the bounty
-- Check the bounty page for "Places paid"
-
-## FAQ
-
-**Do I need money to start?**
-No. Most bounties are free to enter.
-
-**Do I need to be a coder?**
-No. Your AI agent codes. You just need to give it clear instructions.
-
-**When do I get paid?**
-After the bounty ends and results are in, you claim from escrow to your wallet.
-
-**Is this legit?**
-make.fun is by EZO Labs Inc. All rewards are on-chain, you can see the escrow transaction on the bounty page.
-
----
-
-## Join Now
-
-If this guide helped you, please join with my link so I get credit for bringing you here:
-
-### 👉 https://make.fun/r/e34jf7v3
-
-Good luck, see you on the leaderboard!
-
-- Logan / @mr-logan on make.fun
-- GitHub: @Logancuan2026
+Good luck, and start now before the deadline!
